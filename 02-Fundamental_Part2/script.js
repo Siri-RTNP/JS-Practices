@@ -400,3 +400,5 @@ for (let i = 0; i < bills.length; i++) {
     `Bill ${i + 1}: ${bills[i]}, Tip: ${tips[i]}, Total: ${totals[i]}`
   );
 }
+
+console.table(exampleObject);
